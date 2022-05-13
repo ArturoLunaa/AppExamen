@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGasolinerasExamen.Views.GasStationsDetailPage"
+             Title="Detalle de la gasolinera">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout
+                Margin="20"
+                VerticalOptions="StartAndExpand">
+                <Label
+                Text="Compañía de la gasolinera" />
+                <Entry
+                    Text="{Binding GasStationSelected.Company}"/>
+                <Label
+                    Text="Nombre de la sucursal" />
+                <Entry
+                    Text="{Binding GasStationSelected.Name}" />
+                <!--Falta poner la fotografia y comandos de take and select-->
+                <Label
+                    Text="Precio de la gasolina verde" />
+                <Entry
+                    Text="{Binding GasStationSelected.GreenGasPrice}" />
+                <Label
+                    Text="Precio de la gasolina roja" />
+                <Entry
+                    Text="{Binding GasStationSelected.RedGasPrice}" />
+                <Label
+                    Text="Precio del Diesel" />
+                <Entry
+                    Text="{Binding GasStationSelected.DieselPrice}" />
+                <Label
+                    Text="Latitud" />
+                <Entry
+                    Text="{Binding GasStationSelected.Latitude}" />
+                <Label
+                    Text="Longitud" />
+                <Entry
+                    Text="{Binding GasStationSelected.Longitude}" />
+                <Button
+                    Text="Guardar"
+                    Command="{Binding SaveCommand}" />
+                <Button
+                    Text="Eliminar"
+                    Command="{Binding DeleteCommand}" />
+                <Button
+                    Text="Cancelar"
+                    Command="{Binding CancelCommand}"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

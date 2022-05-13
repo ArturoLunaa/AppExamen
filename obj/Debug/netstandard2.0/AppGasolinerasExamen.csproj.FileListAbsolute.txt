@@ -1,0 +1,16 @@
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\bin\Debug\netstandard2.0\AppGasolinerasExamen.deps.json
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\bin\Debug\netstandard2.0\AppGasolinerasExamen.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\bin\Debug\netstandard2.0\ref\AppGasolinerasExamen.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\bin\Debug\netstandard2.0\AppGasolinerasExamen.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\ref\AppGasolinerasExamen.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\AppGasolinerasExamen.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\Views\GasStationsDetailPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppGasolinerasExamen\AppGasolinerasExamen\obj\Debug\netstandard2.0\Views\GasStationsListPage.xaml.g.cs
